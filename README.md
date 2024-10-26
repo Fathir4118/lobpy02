@@ -288,7 +288,9 @@ hasil dari program tersebut:
 
 Dan flowchartnya:
 
-![Screenshot 2024-10-26 200214](https://github.com/user-attachments/assets/19f37011-2198-4889-8b5c-01199022dc09)
+![380362267-4e555671-e748-4949-8802-dac90277e8ad](https://github.com/user-attachments/assets/10b4c7ad-ba67-4d09-a1ad-d3b8b85a2371)
+
+
 
 ## Kalkulator sederhana 
 
@@ -362,15 +364,18 @@ else:
 ````
 saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini Output yang keluar "Error: Operator tidak valid. Silakan gunakan +, -, *, atau /."
 
-dan ini hasil program tersebut:
+program yang di buat:
 
-![Screenshot 2024-10-26 203825](https://github.com/user-attachments/assets/1f2cbc43-4e37-4403-ac35-c1c127ba543b)
+<img width="401" alt="Screenshot 2024-10-26 232028" src="https://github.com/user-attachments/assets/d1799cf4-8b74-4078-8c9e-68c0b119a7c1">
 
-Eksekusi program tersebut:
+hasil program tersebut:
 
-![Screenshot 2024-10-26 201617](https://github.com/user-attachments/assets/034d2078-f2ea-4879-946e-885b00484e29)
+<img width="178" alt="Screenshot 2024-10-26 231213" src="https://github.com/user-attachments/assets/e5565f57-7669-4fcf-acca-cac228ea1dd0">
+<img width="164" alt="Screenshot 2024-10-26 231226" src="https://github.com/user-attachments/assets/b6a8da42-1368-488f-b22b-00cd53dc5933">
+<img width="158" alt="Screenshot 2024-10-26 231312" src="https://github.com/user-attachments/assets/fc258bac-8e98-4f28-8c5c-3803bbf4fa23">
+
 
 dan flowchartnya
 
 
-![Screenshot 2024-10-26 204442](https://github.com/user-attachments/assets/94b3f701-54fe-4e56-bf46-2354363fcfc2)
+![380362242-8cbe83f7-309d-4f9c-ab4f-63833fd3912e](https://github.com/user-attachments/assets/9c6341d5-fe4c-4353-b31d-e0309932b57a)
