@@ -272,15 +272,18 @@ dan jika inputan status member "tidak", maka total harga normal
 
 jika menginputkan selain (ya/tidak) output yang keluar "Harga tidak dapat dihitung"
 
-Dan ini hasil program tersebut:
+program yang telah di buat:
 
 
-![Screenshot 2024-10-26 193806](https://github.com/user-attachments/assets/774c9aae-c360-47c0-b1a6-f3632ebd9a1d)
+<img width="425" alt="Screenshot 2024-10-26 225335" src="https://github.com/user-attachments/assets/05ab8a1c-9cef-47b0-851e-012eac28aed1">
 
 
-Eksekusi dari program tersebut:
 
-![Screenshot 2024-10-26 193938](https://github.com/user-attachments/assets/e8bd719d-2257-4207-b775-91fc60ea31c9)
+hasil dari program tersebut:
+
+<img width="241" alt="Screenshot 2024-10-26 225512" src="https://github.com/user-attachments/assets/18602b7c-4550-4338-a52b-7590ea79e664">
+
+<img width="257" alt="Screenshot 2024-10-26 225546" src="https://github.com/user-attachments/assets/93ec8015-c491-4de9-8742-df539cd3548d">
 
 
 Dan flowchartnya:
